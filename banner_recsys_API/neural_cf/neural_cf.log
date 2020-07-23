@@ -1,0 +1,208 @@
+2020-05-30 10:35:01,494 : Start....
+2020-05-30 10:35:01,494 : num_neg: 6,latent_features: 8,epochs: 10,batch_size: 512,learning_rate: 0.001
+2020-05-30 10:44:15,706 : Start....
+2020-05-30 10:44:15,707 : num_neg: 6,latent_features: 8,epochs: 10,batch_size: 512,learning_rate: 0.001
+2020-05-30 10:44:15,842 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2020-05-30 10:44:16,129 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/ops/nn_impl.py:180: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2020-05-30 11:02:07,992 : Start....
+2020-05-30 11:02:07,993 : num_neg: 6,latent_features: 8,epochs: 10,batch_size: 512,learning_rate: 0.001
+2020-05-30 11:02:08,107 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2020-05-30 11:02:08,389 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/ops/nn_impl.py:180: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2020-05-30 11:06:18,333 : Start....
+2020-05-30 11:06:18,334 : num_neg: 6,latent_features: 8,epochs: 10,batch_size: 512,learning_rate: 0.001
+2020-05-30 11:06:18,444 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2020-05-30 11:06:18,746 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/ops/nn_impl.py:180: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2020-05-30 11:06:57,934 : Epoch:1 - Loss: 0.4809700846672058
+2020-05-30 11:07:35,564 : Epoch:2 - Loss: 0.4418087899684906
+2020-05-30 11:08:12,845 : Epoch:3 - Loss: 0.3031102120876312
+2020-05-30 11:08:49,670 : Epoch:4 - Loss: 0.4380309581756592
+2020-05-30 11:09:26,974 : Epoch:5 - Loss: 0.34583765268325806
+2020-05-30 11:10:04,327 : Epoch:6 - Loss: 0.3903118073940277
+2020-05-30 11:10:41,436 : Epoch:7 - Loss: 0.6344809532165527
+2020-05-30 11:11:18,789 : Epoch:8 - Loss: 0.3908000588417053
+2020-05-30 11:11:56,646 : Epoch:9 - Loss: 0.43763962388038635
+2020-05-30 11:12:33,693 : Epoch:10 - Loss: 0.3910706043243408
+2020-05-30 11:19:13,091 : Start....
+2020-05-30 11:19:13,091 : num_neg: 6,latent_features: 8,epochs: 10,batch_size: 512,learning_rate: 0.001
+2020-05-30 11:19:13,219 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2020-05-30 11:19:13,497 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/ops/nn_impl.py:180: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2020-05-30 11:19:14,700 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/training/saver.py:1276: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+2020-05-30 11:19:14,703 : Restoring parameters from ./checkpoints/ncf-model-3
+2020-05-30 11:24:42,882 : Start....
+2020-05-30 11:24:42,882 : num_neg: 6,latent_features: 8,epochs: 10,batch_size: 512,learning_rate: 0.001
+2020-05-30 11:24:42,982 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2020-05-30 11:24:43,259 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/ops/nn_impl.py:180: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2020-05-30 11:24:44,421 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/training/saver.py:1276: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+2020-05-30 11:24:44,422 : Restoring parameters from ./checkpoints/ncf-model-10
+2020-05-30 11:36:05,980 : Start....
+2020-05-30 11:36:05,980 : num_neg: 6,latent_features: 8,epochs: 10,batch_size: 512,learning_rate: 0.001
+2020-05-30 11:36:06,103 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2020-05-30 11:36:06,410 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/ops/nn_impl.py:180: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2020-05-30 11:36:07,705 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/training/saver.py:1276: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+2020-05-30 11:36:07,706 : Restoring parameters from ./checkpoints/ncf-model-10
+2020-05-30 11:53:27,884 : Start....
+2020-05-30 11:53:27,884 : num_neg: 6,latent_features: 8,epochs: 10,batch_size: 512,learning_rate: 0.001
+2020-05-30 11:53:28,006 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2020-05-30 11:53:28,305 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/ops/nn_impl.py:180: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2020-05-30 11:53:29,442 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/training/saver.py:1276: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+2020-05-30 11:53:29,444 : Restoring parameters from ./checkpoints/ncf-model-10
+2020-05-30 15:08:12,947 : Start....
+2020-05-30 15:08:12,947 : num_neg: 6,latent_features: 8,epochs: 10,batch_size: 512,learning_rate: 0.001
+2020-05-30 15:08:13,056 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2020-05-30 15:08:13,333 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/ops/nn_impl.py:180: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2020-05-30 15:08:14,487 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/training/saver.py:1276: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+2020-05-30 15:08:14,489 : Restoring parameters from ./checkpoints/ncf-model-10
+2020-05-30 15:09:04,653 : Start....
+2020-05-30 15:09:04,653 : num_neg: 6,latent_features: 8,epochs: 10,batch_size: 512,learning_rate: 0.001
+2020-05-30 15:09:04,760 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2020-05-30 15:09:05,024 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/ops/nn_impl.py:180: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2020-05-30 15:49:23,632 : Start....
+2020-05-30 15:49:23,632 : num_neg: 6,latent_features: 8,epochs: 10,batch_size: 512,learning_rate: 0.001
+2020-05-30 15:49:23,736 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2020-05-30 15:49:24,002 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/ops/nn_impl.py:180: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2020-05-30 15:49:25,156 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/training/saver.py:1276: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+2020-05-30 15:49:25,157 : Restoring parameters from ./checkpoints/ncf-model-10
+2020-06-10 11:11:04,026 : Start....
+2020-06-10 11:11:04,027 : num_neg: 6,latent_features: 8,epochs: 10,batch_size: 512,learning_rate: 0.001
+2020-06-10 11:11:04,152 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2020-06-10 11:11:04,433 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/ops/nn_impl.py:180: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2020-06-10 11:11:51,934 : Epoch:1 - Loss: 0.35703620314598083
+2020-06-10 11:12:38,506 : Epoch:2 - Loss: 0.4003673195838928
+2020-06-10 11:13:24,117 : Epoch:3 - Loss: 0.43793120980262756
+2020-06-10 11:14:09,684 : Epoch:4 - Loss: 0.3672603666782379
+2020-06-10 11:14:56,037 : Epoch:5 - Loss: 0.38726547360420227
+2020-06-10 11:15:42,533 : Epoch:6 - Loss: 0.34686651825904846
+2020-06-10 11:16:28,613 : Epoch:7 - Loss: 0.3738555908203125
+2020-06-10 11:17:14,518 : Epoch:8 - Loss: 0.4320077896118164
+2020-06-10 11:18:00,207 : Epoch:9 - Loss: 0.37495532631874084
+2020-06-10 11:18:46,356 : Epoch:10 - Loss: 0.3742968738079071
+2020-06-16 15:42:25,585 : Start....
+2020-06-16 15:42:25,586 : num_neg: 6,latent_features: 8,epochs: 10,batch_size: 512,learning_rate: 0.001
+2020-06-16 15:42:25,716 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2020-06-16 15:42:25,989 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/ops/nn_impl.py:180: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2020-06-16 15:44:11,426 : Epoch:1 - Loss: 0.4494496285915375
+2020-06-16 15:45:53,863 : Epoch:2 - Loss: 0.3631775379180908
+2020-06-16 15:47:36,490 : Epoch:3 - Loss: 0.5757925510406494
+2020-06-16 15:49:22,038 : Epoch:4 - Loss: 0.5669885277748108
+2020-06-16 15:51:09,633 : Epoch:5 - Loss: 0.27471181750297546
+2020-06-16 15:52:52,768 : Epoch:6 - Loss: 0.48777708411216736
+2020-06-16 15:54:37,336 : Epoch:7 - Loss: 0.36072784662246704
+2020-06-16 15:56:25,447 : Epoch:8 - Loss: 0.19113385677337646
+2020-06-16 15:58:08,780 : Epoch:9 - Loss: 0.44477578997612
+2020-06-16 15:59:51,710 : Epoch:10 - Loss: 0.4893282949924469
+2020-06-25 16:47:10,577 : Start....
+2020-06-25 16:47:10,578 : num_neg: 6,latent_features: 8,epochs: 10,batch_size: 512,learning_rate: 0.001
+2020-06-25 16:47:10,717 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2020-06-25 16:47:11,015 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/ops/nn_impl.py:180: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2020-06-25 16:48:52,981 : Epoch:1 - Loss: 0.45528993010520935
+2020-06-25 16:50:36,832 : Epoch:2 - Loss: 0.4481094181537628
+2020-06-25 16:52:19,313 : Epoch:3 - Loss: 0.36741581559181213
+2020-06-25 16:54:00,360 : Epoch:4 - Loss: 0.41365981101989746
+2020-06-25 16:55:42,409 : Epoch:5 - Loss: 0.4055176079273224
+2020-06-25 16:57:20,922 : Epoch:6 - Loss: 0.4094325304031372
+2020-06-25 16:58:58,336 : Epoch:7 - Loss: 0.44846880435943604
+2020-06-25 17:00:37,723 : Epoch:8 - Loss: 0.3857223689556122
+2020-06-25 17:02:15,748 : Epoch:9 - Loss: 0.3389317989349365
+2020-06-25 17:03:53,181 : Epoch:10 - Loss: 0.4046925902366638
+2020-06-25 18:22:27,331 : Start....
+2020-06-25 18:22:27,332 : num_neg: 6,latent_features: 8,epochs: 10,batch_size: 512,learning_rate: 0.001
+2020-06-25 18:22:27,450 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2020-06-25 18:22:27,740 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/ops/nn_impl.py:180: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2020-06-25 18:24:13,738 : Start....
+2020-06-25 18:24:13,739 : num_neg: 6,latent_features: 8,epochs: 10,batch_size: 512,learning_rate: 0.001
+2020-06-25 18:24:13,853 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2020-06-25 18:24:14,109 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/ops/nn_impl.py:180: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2020-06-25 18:24:15,323 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/training/saver.py:1276: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+2020-06-25 18:24:15,326 : Restoring parameters from ./checkpoints/ncf-model-10
+2020-06-27 18:40:26,793 : Start....
+2020-06-27 18:40:26,793 : num_neg: 6,latent_features: 8,epochs: 10,batch_size: 512,learning_rate: 0.001
+2020-06-27 18:40:26,922 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/ops/init_ops.py:1251: calling VarianceScaling.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2020-06-27 18:40:27,174 : From /home/ubuntu/django-api/django_env/lib/python3.6/site-packages/tensorflow/python/ops/nn_impl.py:180: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2020-06-27 18:42:17,137 : Epoch:1 - Loss: 0.4110904633998871
+2020-06-27 18:44:06,703 : Epoch:2 - Loss: 0.38068926334381104
+2020-06-27 18:45:55,649 : Epoch:3 - Loss: 0.4533069431781769
+2020-06-27 18:47:45,832 : Epoch:4 - Loss: 0.4084559679031372
+2020-06-27 18:49:36,222 : Epoch:5 - Loss: 0.3963141143321991
+2020-06-27 18:51:28,621 : Epoch:6 - Loss: 0.42800819873809814
+2020-06-27 18:53:17,649 : Epoch:7 - Loss: 0.4084828197956085
+2020-06-27 18:55:10,899 : Epoch:8 - Loss: 0.3924243152141571
+2020-06-27 18:57:02,000 : Epoch:9 - Loss: 0.39651328325271606
+2020-06-27 18:58:51,132 : Epoch:10 - Loss: 0.35590308904647827
